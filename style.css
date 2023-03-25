@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Erica+One&display=swap');
+
+*{
+    font-family: initial;
+;
+}
+form,.output{
+    background-color: #D3E6FB;
+}
+nav :not(.title){
+    font-size: 1.4rem;
+}
+.title{
+    font-family: 'Erica One', cursive;
+    color: red;
+    font-size: 2rem;
+}
